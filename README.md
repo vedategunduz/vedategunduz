@@ -7,7 +7,7 @@ I'm a full-stack developer passionate about building real-time and scalable web 
 - 🧠 Always learning, always improving
 - 🔍 Detail-oriented and focused on practical solutions
 
-> “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
+> “Simplicity is the ultimate sophistication.”
 
 Let's connect and build something awesome!
 
